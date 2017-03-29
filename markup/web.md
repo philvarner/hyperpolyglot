@@ -1,7 +1,7 @@
 [#version version] | [#grammar-execution grammar and execution] | [#var-expr variables and expressions] | [#arithmetic-logic arithmetic and logic] | [#strings strings] | [#regexes regexes] | [#dates-time dates and time] | [#arrays arrays] | [#dictionaries dictionaries] | [#functions functions] | [#execution-control execution control] | [#exceptions exceptions] | [#streams streams] | [#files files] | [#file-fmt file formats] | [#directories directories ] | [#processes-environment processes and environment] | [#libraries-namespaces libraries and namespaces] | [#user-defined-types user-defined types] | [#generic-types generic types] | [#objects objects] | [#inheritance-polymorphism inheritance and polymorphism] | [#reflection reflection] | [#net-web net and web] | [#debugging-profiling debugging and profiling]
 
 ||||||~ [[# version]][#version-note version]||
-||~ ||~ [#typescript typescript]||~ [#dart dart]||
+||~ ||~ [#typescript typescript]||~ [#javascript javascript]||~ [#coffeescript coffeescript]||~ [#clojurescript clojurescript]||~ [#dart dart]||
 ||[[# version-used]][#version-used-note version used] _
 @<&nbsp;>@||##gray|//1.5//##||##gray|//1.10//##||
 ||[[# version]][#version-note show version] _
